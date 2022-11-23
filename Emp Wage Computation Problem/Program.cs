@@ -5,7 +5,7 @@ namespace Emp_Wage_Computation_Problem
     {
         static void Main(string[] args)
         {
-            UC1.EmpAttendance();
+            UC2.EmpWage();    
             Console.ReadLine();
         }
     }
